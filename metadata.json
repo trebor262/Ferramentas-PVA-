@@ -1,0 +1,5 @@
+{
+  "name": "PVA - Simulador de Vendas",
+  "description": "Simulador de vendas por procedimento com acesso restrito via login e senha.",
+  "requestFramePermissions": []
+}

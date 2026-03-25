@@ -1,0 +1,73 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // ===============================================================
+    // Assumed Data Model
+    // ===============================================================
+    //
+    // Collection: users
+    // Fields:
+    //   - uid: string (required)
+    //   - email: string (required)
+    //   - role: string ('admin' | 'client')
+    //   - status: string ('active' | 'blocked' | 'pending')
+    //   - lastPaymentDate: timestamp
+    //
+    // Collection: simulations
+    // Fields:
+    //   - uid: string (required, owner)
+    //   - investment: number
+    //   - costPerLead: number
+    //   ... other simulation params
+    //
+    // ===============================================================
+
+    // Helper Functions
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isAuthenticated() && request.auth.uid == userId;
+    }
+
+    function isAdmin() {
+      return isAuthenticated() && 
+        (get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == 'admin' ||
+         request.auth.token.email == "trebor262@gmail.com");
+    }
+
+    function isActive() {
+      return get(/databases/$(database)/documents/users/$(request.auth.uid)).data.status == 'active' || isAdmin();
+    }
+
+    // User Rules
+    match /users/{userId} {
+      allow read: if isOwner(userId) || isAdmin();
+      allow create: if isAuthenticated() && (
+        isAdmin() ||
+        (request.resource.data.role == 'client' && request.resource.data.status == 'pending')
+      );
+      allow update: if isAdmin() || (
+        isOwner(userId) && 
+        request.resource.data.role == resource.data.role && 
+        request.resource.data.status == resource.data.status
+      );
+    }
+
+    // Simulation Rules
+    match /simulations/{simId} {
+      allow read: if (isAuthenticated() && resource.data.uid == request.auth.uid && isActive()) || isAdmin();
+      allow create: if isAuthenticated() && request.resource.data.uid == request.auth.uid && isActive();
+      allow update, delete: if isAuthenticated() && resource.data.uid == request.auth.uid && isActive();
+    }
+
+    // WhatsApp Script Rules
+    match /whatsapp_scripts/{scriptId} {
+      allow read: if (isAuthenticated() && resource.data.uid == request.auth.uid && isActive()) || isAdmin();
+      allow create: if isAuthenticated() && request.resource.data.uid == request.auth.uid && isActive();
+      allow update, delete: if isAuthenticated() && resource.data.uid == request.auth.uid && isActive();
+    }
+  }
+}

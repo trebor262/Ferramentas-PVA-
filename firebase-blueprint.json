@@ -1,0 +1,68 @@
+{
+  "entities": {
+    "User": {
+      "title": "User",
+      "description": "User profile and subscription status",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string", "description": "Firebase Auth UID" },
+        "email": { "type": "string", "description": "User email" },
+        "displayName": { "type": "string", "description": "User name" },
+        "role": { "type": "string", "enum": ["admin", "client"], "description": "User role" },
+        "status": { "type": "string", "enum": ["active", "blocked", "pending"], "description": "Subscription status" },
+        "lastPaymentDate": { "type": "string", "format": "date-time", "description": "Last payment timestamp" },
+        "createdAt": { "type": "string", "format": "date-time", "description": "Account creation timestamp" }
+      },
+      "required": ["uid", "email", "role", "status"]
+    },
+    "Simulation": {
+      "title": "Simulation",
+      "description": "Saved sales simulations",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string", "description": "Owner UID" },
+        "name": { "type": "string", "description": "Simulation name" },
+        "investment": { "type": "number" },
+        "costPerLead": { "type": "number" },
+        "appointmentRate": { "type": "number" },
+        "attendanceRate": { "type": "number" },
+        "conversionRate": { "type": "number" },
+        "averageTicket": { "type": "number" },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["uid", "investment", "costPerLead"]
+    },
+    "WhatsAppScript": {
+      "title": "WhatsAppScript",
+      "description": "Saved WhatsApp scripts history",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string", "description": "Owner UID" },
+        "type": { "type": "string", "enum": ["qualificacao", "direto"], "description": "Script type" },
+        "clinicName": { "type": "string" },
+        "professionalName": { "type": "string" },
+        "methodName": { "type": "string" },
+        "procedureSteps": { "type": "string" },
+        "qualificationData": { "type": "string" },
+        "socialProof": { "type": "string" },
+        "generatedScript": { "type": "string" },
+        "createdAt": { "type": "string", "format": "date-time" }
+      },
+      "required": ["uid", "type", "generatedScript", "createdAt"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "User",
+      "description": "User profiles"
+    },
+    "/simulations/{simId}": {
+      "schema": "Simulation",
+      "description": "User saved simulations"
+    },
+    "/whatsapp_scripts/{scriptId}": {
+      "schema": "WhatsAppScript",
+      "description": "WhatsApp script history"
+    }
+  }
+}
