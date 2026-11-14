@@ -107,7 +107,15 @@ Paleta baseada no **inverno brilhante** (coloração pessoal): **roxo, dourado, 
 - Sensação: sofisticada, de alto valor, com identidade masculina. Combina com um posicionamento premium (protocolos de R$ 3 mil a R$ 5 mil).
 
 ### 4. Rituals (rituais)
-_(nenhuma ainda)_
+
+**13. Existe algo que todo aluno faz ao entrar ou toda semana?**
+O grande diferencial que o Robert está implementando é a **inteligência artificial** para facilitar a vida do terapeuta. Só falando, como na conversa com o Claude, o terapeuta consegue criar um anúncio, editar um vídeo e montar a estrutura do atendimento. Ele também passa a ter **"funcionários digitais"** dentro do Claude, por meio de skills e ferramentas, para conseguir (até sozinho) montar uma estrutura que fature de **R$ 30 mil a R$ 50 mil por mês** como terapeuta.
+
+**Pontos-chave (para usar depois):**
+- Diferencial forte: terapeuta + IA, usando a **fala** como interface (falar em vez de digitar ou programar).
+- Promessa de estrutura enxuta: funcionários digitais substituem equipe, e o terapeuta pode fazer tudo sozinho.
+- Teto de resultado citado: R$ 30 mil a R$ 50 mil por mês.
+- _Atenção: isso é mais um **diferencial/método** do que um **ritual** (hábito repetido). Ritual seria, por exemplo, "toda semana o aluno faz X". Vale definir um ritual a partir disso (ver perguntas 14 e 15)._
 
 ### 5. Sacred Words (palavras sagradas)
 _(nenhuma ainda)_
@@ -126,7 +134,6 @@ _(nenhuma ainda)_
 ## Perguntas pendentes
 
 ### 4. Rituals
-13. Existe algo que todo aluno faz ao entrar ou toda semana? (aula ao vivo, check-in, meta, comemoração)
 14. Como é a rotina de quem aplica o método? Qual é o primeiro passo?
 15. Como vocês comemoram uma agenda cheia ou a primeira venda?
 
