@@ -52,7 +52,15 @@ A primeira mentorada que fechou com o Robert dizia que não conseguia fazer nem 
 - _Opcional, se quiser detalhar depois: perfil dela (profissão, tempo de atuação) e o que ela fez de diferente nessas 3 semanas._
 
 ### 2. Creed (credo)
-_(nenhuma ainda)_
+
+**7. No que você acredita sobre terapeutas, dinheiro e agenda cheia que o mercado ignora ou nega?**
+O terapeuta acredita que precisa fazer várias formações para começar a ganhar dinheiro. Com isso, faz formação atrás de formação, fica frustrado, não fatura, continua com a agenda vazia ou atendendo os mesmos pacientes, cobrando os mesmos valores por sessão avulsa barata (R$ 60, R$ 80, R$ 100). Para o Robert, essa é a ordem errada: o terapeuta pensa que quanto mais se qualificar, mais dinheiro vai ganhar, mas não é assim. Ele precisa primeiro aprender a vender, para conseguir vender outros procedimentos, e com o dinheiro que entra pode fazer as novas formações, cursos e o que quiser.
+
+**Pontos-chave (para usar depois):**
+- Crença central (rascunho): **"Primeiro vender, depois se qualificar."** Venda vem antes de formação.
+- Inimigo identificado: o ciclo da "formação infinita" (mais um curso, mais frustração, agenda vazia).
+- O dinheiro é o que financia a evolução do terapeuta, e não o contrário.
+- Sintoma visível: sessão avulsa barata (R$ 60 a R$ 100) e pacientes repetidos.
 
 ### 3. Icon (ícone)
 _(nenhuma ainda)_
@@ -77,7 +85,6 @@ _(nenhuma ainda)_
 ## Perguntas pendentes
 
 ### 2. Creed
-7. No que você acredita sobre terapeutas, dinheiro e agenda cheia que a maioria do mercado ignora ou nega?
 8. Qual crença limitante dos terapeutas você quer destruir?
 9. Complete: "Terapeuta não deveria ter que _______ para poder viver do que ama."
 10. Qual é a causa maior por trás disso? Por que importa que terapeutas tenham agenda cheia?
