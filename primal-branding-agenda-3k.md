@@ -90,7 +90,14 @@ O terapeuta que vende protocolos terapêuticos de R$ 3 mil a R$ 5 mil ou mais co
 **Causa maior (rascunho):** terapeutas que vivem bem do que fazem atendem melhor, ajudam mais gente e têm liberdade de tempo e de lugar.
 
 ### 3. Icon (ícone)
-_(nenhuma ainda)_
+
+**11. Existe algum símbolo, objeto ou imagem ligado à marca?**
+A marca do Robert tem como logo um **cérebro na base da raiz de uma árvore**. A AGENDA 3K ainda **não tem logo própria** (não foi desenvolvida), mas é muito ligada ao universo da **árvore** e dos **bonecos de constelação**.
+
+**Pontos-chave (para usar depois):**
+- Símbolo existente da marca: cérebro + raiz de árvore (conecta com "Terapeuta Raiz").
+- Universo visual da AGENDA 3K: **árvore** e **bonecos de constelação**.
+- Lacuna: a AGENDA 3K ainda não tem identidade visual própria. Oportunidade de criar uma que una árvore, constelação e o número 3K.
 
 ### 4. Rituals (rituais)
 _(nenhuma ainda)_
@@ -112,7 +119,6 @@ _(nenhuma ainda)_
 ## Perguntas pendentes
 
 ### 3. Icon
-11. Existe algum símbolo, objeto ou imagem ligado à marca? (agenda, calendário, número 3K, constelações, bonequinhos na mesa?)
 12. Quais cores, fontes ou elementos visuais você já usa? Algo que as pessoas reconhecem à distância?
 
 ### 4. Rituals
