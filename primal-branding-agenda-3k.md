@@ -154,6 +154,14 @@ As duas palavras-chave são: **Protocolo Raiz Premium** (o nome do protocolo de 
 - **Sessão de Diagnóstico (SD):** o momento em que o protocolo é fechado. Já é chamada de "a famosa SD".
 - Os dois termos formam o centro do vocabulário: **SD → Protocolo Raiz Premium**.
 
+**17. Existe uma expressão que você fala sempre e que virou assinatura?**
+O Robert brinca muito com os mentorados que **"quem não aplica a metodologia vai se lascar"** (ou "vai se lascar todo").
+
+**Pontos-chave (para usar depois):**
+- Tom de voz: direto, bem-humorado, descontraído, com cobrança de execução em tom de brincadeira.
+- Ideia por trás: **o método só funciona para quem aplica**. Reforça a responsabilidade do aluno e filtra quem não executa (ligado ao elemento "não crentes").
+- _A decidir: usar a expressão como está (mais informal) ou criar uma versão para conteúdo público._
+
 ### 6. Nonbelievers (não crentes)
 _(nenhuma ainda)_
 
@@ -168,7 +176,6 @@ _(nenhuma ainda)_
 ## Perguntas pendentes
 
 ### 5. Sacred Words
-17. Existe uma expressão que você fala sempre nos vídeos e que virou sua assinatura?
 18. Quais palavras você quer que o mercado associe a você? Quais quer proibir?
 
 ### 6. Nonbelievers
