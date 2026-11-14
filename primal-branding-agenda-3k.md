@@ -223,6 +223,19 @@ Um líder de **duas pontas**:
 - Postura: "estou do seu lado", "vou te guiar" e, ao mesmo tempo, cobrança de execução ("quem não aplica vai se lascar").
 - Promessa implícita do líder: **"eu já fiz, comecei do zero, e vou com você até o resultado."**
 
+**23. Que valores e posturas você nunca negocia?**
+- O terapeuta precisa se entender como **empresário** e saber **vender o negócio dele antes de querer se qualificar mais**, porque ele **já tem conhecimento suficiente** para começar a fazer dinheiro.
+- Se ele não se posicionar como empresário, como alguém que sabe vender o serviço, **não vai conseguir ir para frente**.
+- **Não existem caminhos fáceis.** É preciso **enfrentar o medo** e seguir em frente.
+- O que ele faz é o que vai gerar **prosperidade e sucesso para ele e para a família**.
+
+**Pontos-chave (para usar depois):**
+- Valor inegociável 1: **terapeuta é empresário.** Posicionamento como dono de negócio.
+- Valor inegociável 2: **vender antes de se qualificar.** Ele já sabe o suficiente.
+- Valor inegociável 3: **sem caminho fácil.** Coragem e enfrentamento do medo.
+- Valor inegociável 4: **prosperidade para a família.** O propósito emocional por trás do dinheiro.
+- Reforça o credo e o inimigo de mercado ("mais um método não resolve").
+
 ### Finalização
 _(nenhuma ainda)_
 
@@ -231,7 +244,6 @@ _(nenhuma ainda)_
 ## Perguntas pendentes
 
 ### 7. Leader
-23. Que valores e posturas você nunca negocia?
 24. O que faz um aluno confiar em você e não em outro mentor?
 
 ### Finalização
