@@ -33,8 +33,14 @@ Nasceu de um conhecimento que o Robert já aplicava como empresário na área de
 - A validação veio dos professores e dos colegas da formação, não de marketing.
 - A mentoria nasceu a pedido do público (as pessoas o procuraram).
 
-**5. (parcial) A virada**
-A virada foi aplicar o método em si mesmo durante a formação, para provar que funcionava. _Falta: como estava a agenda dele antes e qual foi o primeiro resultado concreto (valor do primeiro protocolo, número de pacientes)._
+**5. Agenda antes e a virada**
+Antes de aplicar o método, o Robert não tinha agenda: começou do zero, sem nenhum paciente. A virada foi aplicar o método em si mesmo durante a formação. Primeiro resultado: vendeu um protocolo de 8 sessões por R$ 2.500. Depois vendeu um protocolo de 5 sessões por R$ 1.500. A partir daí não parou mais de vender protocolos de R$ 1.500, R$ 2.000, R$ 3.000, e a agenda ficou sempre lotada.
+
+**Pontos-chave (para usar depois):**
+- Começou do zero absoluto: sem agenda, sem pacientes. Prova de que o método funciona para quem está começando.
+- Vendeu protocolo (pacote de sessões), não sessão avulsa, desde o primeiro resultado.
+- Números reais e específicos: 8 sessões por R$ 2.500; 5 sessões por R$ 1.500.
+- Depois disso, agenda "sempre lotada".
 
 ### 2. Creed (credo)
 _(nenhuma ainda)_
@@ -62,7 +68,6 @@ _(nenhuma ainda)_
 ## Perguntas pendentes
 
 ### 1. Creation Story
-5. (falta só isso) Como estava a sua agenda antes de aplicar o método em você? Qual foi o primeiro resultado concreto (valor do primeiro protocolo, número de pacientes, em quanto tempo)?
 6. Qual a história de um aluno que teve o resultado que você quer que todos tenham?
 
 ### 2. Creed
