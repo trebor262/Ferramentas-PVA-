@@ -185,6 +185,16 @@ O Robert brinca muito com os mentorados que **"quem não aplica a metodologia va
 - Inimigo 3: **crenças sobre dinheiro**: "vender é sujo", "cobrar caro é errado", "bom profissional trabalha por amor".
 - Conecta com o credo: quem trata a venda como algo sujo não vai conseguir viver do que ama.
 
+**20. Contra qual ideia ou prática do mercado você se posiciona?**
+O Robert é contra os mentores que ganham dinheiro ensinando o terapeuta a **aprender mais um método** (constelação, terapia, hipnose, outra metodologia), achando que **quanto mais conhecimento, mais ele vai fechar**. Para ele, isso é **mentira**. A primeira coisa que um bom terapeuta tem que saber é **saber vender**: o que fazer com o paciente quando chega na primeira **Sessão de Diagnóstico**. É isso que ele mais luta para que os terapeutas entendam. Se entenderem, ele fica satisfeito.
+
+**Pontos-chave (para usar depois):**
+- Inimigo de mercado: mentores e formações que vendem **"mais um método"** como solução para faturar.
+- Mentira a combater: **"quanto mais conhecimento, mais eu fecho."**
+- Verdade da marca: **saber vender vem primeiro**, e o centro disso é a **Sessão de Diagnóstico**.
+- Missão pessoal do Robert: fazer o terapeuta **entender** que venda é o primeiro passo. Esse é o critério de sucesso dele.
+- Frase-rascunho: **"O que fecha paciente não é mais um método, é saber conduzir a Sessão de Diagnóstico."**
+
 ### 7. Leader (líder)
 _(nenhuma ainda)_
 
@@ -196,7 +206,6 @@ _(nenhuma ainda)_
 ## Perguntas pendentes
 
 ### 6. Nonbelievers
-20. Contra qual ideia ou prática do mercado de terapeutas você se posiciona?
 21. Quais objeções você mais ouve de quem hesita em entrar?
 
 ### 7. Leader
