@@ -247,12 +247,20 @@ O principal é a **visão de empresário, e não só de terapeuta**. O Robert en
 - Frase-rascunho: **"Ajudar o paciente e ter lucro não são opostos. Quem tem um negócio tem que ter lucro."**
 
 ### Finalização
-_(nenhuma ainda)_
+
+**25. Concorrentes ou referências e o que você faz diferente?**
+O Robert não sabe de concorrentes específicos.
+
+**Diferenciais já ditos nas respostas anteriores (para usar como contraste, sem citar ninguém):**
+- Visão de **empresário + terapeuta** juntas.
+- Começou do **zero** e provou em si mesmo antes de ensinar.
+- Foco em **vender antes de se qualificar**, com a **Sessão de Diagnóstico** no centro.
+- Uso de **IA pela fala** e "funcionários digitais" para o terapeuta montar a estrutura sozinho.
+- Implementação com **acompanhamento de 6 meses** (lives quinzenais, encontros individuais, grupo, conferência de 30 dias).
 
 ---
 
 ## Perguntas pendentes
 
 ### Finalização
-25. Quais são os concorrentes ou referências no mercado de mentoria para terapeutas? O que você faz diferente?
 26. Se a AGENDA 3K virasse um movimento, qual seria o grito de guerra?
