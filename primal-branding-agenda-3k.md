@@ -70,6 +70,13 @@ A mesma da pergunta 7, e é uma das maiores: ficar fazendo formação atrás de 
 - O foco do terapeuta está no lugar errado: em **criar e aprender métodos**, e não em **vender**.
 - Essa é a principal crença limitante, a que mais pesa.
 
+**9. "Terapeuta não deveria ter que _______ para poder viver do que ama."**
+Os principais: **ter medo de falar o valor** e **ter outro emprego para complementar a renda**. São os básicos.
+
+**Frases-rascunho (para refinar no final):**
+- "Terapeuta não deveria ter medo de falar o valor do próprio trabalho."
+- "Terapeuta não deveria precisar de outro emprego para viver do que ama."
+
 ### 3. Icon (ícone)
 _(nenhuma ainda)_
 
@@ -93,7 +100,6 @@ _(nenhuma ainda)_
 ## Perguntas pendentes
 
 ### 2. Creed
-9. Complete: "Terapeuta não deveria ter que _______ para poder viver do que ama."
 10. Qual é a causa maior por trás disso? Por que importa que terapeutas tenham agenda cheia?
 
 ### 3. Icon
