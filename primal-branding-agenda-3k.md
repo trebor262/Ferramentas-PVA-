@@ -23,7 +23,18 @@ Duração de 6 meses de acompanhamento. Inclui:
 _A confirmar: a conferência de 30 dias é o mesmo encontro individual final, ou é uma checagem à parte? E "os 4 itens" são: encontros individuais, lives quinzenais, comunidade e treinamento gravado?_
 
 ### 1. Creation Story (história de origem)
-_(nenhuma ainda)_
+
+**4. Como nasceu a AGENDA 3K?**
+Nasceu de um conhecimento que o Robert já aplicava como empresário na área de energia solar. Depois saiu para ajudar a esposa na clínica de estética dela e passou a trabalhar com a parte de pessoas: estudou, fez cursos como treinador comportamental e depois como terapeuta sistêmico e transgeracional. Começou a orientar alguns terapeutas, mas eles achavam que a forma dele de fazer não funcionava. Então se qualificou, pegou o certificado e entrou numa formação de terapeutas para aprofundar técnicas e aplicou o processo em si mesmo, para provar que funcionava. Quando teve os primeiros resultados na turma da formação, os próprios professores o elogiaram, e colegas começaram a procurá-lo para fazer uma turma de mentoria. Foi aí que começou a AGENDA 3K.
+
+**Pontos-chave (para usar depois):**
+- Vem do mundo dos negócios (energia solar), não só da terapia: método de empresário aplicado à terapia.
+- Foi desacreditado no começo ("a forma dele não funcionava") e provou na prática, em si mesmo.
+- A validação veio dos professores e dos colegas da formação, não de marketing.
+- A mentoria nasceu a pedido do público (as pessoas o procuraram).
+
+**5. (parcial) A virada**
+A virada foi aplicar o método em si mesmo durante a formação, para provar que funcionava. _Falta: como estava a agenda dele antes e qual foi o primeiro resultado concreto (valor do primeiro protocolo, número de pacientes)._
 
 ### 2. Creed (credo)
 _(nenhuma ainda)_
@@ -51,8 +62,7 @@ _(nenhuma ainda)_
 ## Perguntas pendentes
 
 ### 1. Creation Story
-4. Como nasceu a AGENDA 3K? Houve um momento, uma dor ou um fracasso seu que originou isso?
-5. Como era a sua agenda antes de descobrir o método? Qual foi a virada?
+5. (falta só isso) Como estava a sua agenda antes de aplicar o método em você? Qual foi o primeiro resultado concreto (valor do primeiro protocolo, número de pacientes, em quanto tempo)?
 6. Qual a história de um aluno que teve o resultado que você quer que todos tenham?
 
 ### 2. Creed
