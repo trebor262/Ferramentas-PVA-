@@ -5,7 +5,12 @@
 ## Respostas salvas
 
 ### 0. Contexto básico
-_(nenhuma ainda)_
+
+**1. O que é a AGENDA 3K e qual resultado entrega?**
+Mentoria de implementação para terapeutas, psicólogos, psicanalistas e profissionais do desenvolvimento humano. Foco: fazer o terapeuta fechar ciclos terapêuticos (pacotes de atendimento) com pacientes no valor de R$ 3.000 a R$ 5.000. Objetivo principal: acelerar esse processo, tanto para quem já tem conhecimento em terapia quanto para quem está começando agora.
+
+**2. (parcial) Aluno ideal**
+Terapeutas, psicólogos, psicanalistas e quem trabalha com desenvolvimento humano; tanto quem já tem conhecimento quanto quem está começando e quer acelerar. _Falta detalhar a situação atual dele (dor, agenda, preço, método)._
 
 ### 1. Creation Story (história de origem)
 _(nenhuma ainda)_
@@ -36,8 +41,7 @@ _(nenhuma ainda)_
 ## Perguntas pendentes
 
 ### 0. Contexto básico
-1. Em uma frase, o que é a AGENDA 3K e qual resultado ela entrega? O "3K" é faturamento, número de atendimentos, outra coisa?
-2. Quem é o aluno ideal? Ele já atende ou está começando? Qual é a situação dele hoje (agenda vazia, sem preço, sem método)?
+2. (falta só isso) Qual é a situação do aluno hoje, antes de entrar? Agenda vazia, atende barato (R$ 100-200 a sessão), não sabe vender pacote, sem método? Qual é a maior dor dele?
 3. Qual é o formato da mentoria (duração, encontros, comunidade, material)?
 
 ### 1. Creation Story
