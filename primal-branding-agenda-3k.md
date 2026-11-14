@@ -145,7 +145,14 @@ Hoje **não existe um ritual padrão**, e o Robert quer ajustar isso. Ele pensou
 - _A definir: formato do debrief e da celebração da primeira venda (ver opções sugeridas na conversa)._
 
 ### 5. Sacred Words (palavras sagradas)
-_(nenhuma ainda)_
+
+**16. Quais termos próprios você já usa e que seus alunos repetem?**
+As duas palavras-chave são: **Protocolo Raiz Premium** (o nome do protocolo de R$ 3 mil a R$ 5 mil que o terapeuta vende; "tem que vender os protocolos raiz premium") e **Sessão de Diagnóstico (SD)**.
+
+**Pontos-chave (para usar depois):**
+- **Protocolo Raiz Premium:** o produto que o aluno aprende a vender. Liga o protocolo à marca "Raiz" (cérebro na raiz da árvore) e ao posicionamento premium.
+- **Sessão de Diagnóstico (SD):** o momento em que o protocolo é fechado. Já é chamada de "a famosa SD".
+- Os dois termos formam o centro do vocabulário: **SD → Protocolo Raiz Premium**.
 
 ### 6. Nonbelievers (não crentes)
 _(nenhuma ainda)_
@@ -161,7 +168,6 @@ _(nenhuma ainda)_
 ## Perguntas pendentes
 
 ### 5. Sacred Words
-16. Quais termos próprios você já usa e que seus alunos repetem? (nome do método, das fases, de uma técnica)
 17. Existe uma expressão que você fala sempre nos vídeos e que virou sua assinatura?
 18. Quais palavras você quer que o mercado associe a você? Quais quer proibir?
 
