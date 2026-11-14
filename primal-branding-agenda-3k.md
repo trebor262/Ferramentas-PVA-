@@ -258,9 +258,22 @@ O Robert não sabe de concorrentes específicos.
 - Uso de **IA pela fala** e "funcionários digitais" para o terapeuta montar a estrutura sozinho.
 - Implementação com **acompanhamento de 6 meses** (lives quinzenais, encontros individuais, grupo, conferência de 30 dias).
 
+**26. Se a AGENDA 3K virasse um movimento, qual seria o grito de guerra?**
+**"Parece loucura, mas é método. E quem aplica vende."**
+
+**Pontos-chave (para usar depois):**
+- Duas partes: **"Parece loucura, mas é método"** (quebra a desconfiança de quem acha que é bom demais para ser verdade, e reforça o método e o processo) e **"E quem aplica vende"** (a execução gera resultado; conecta com "quem não aplica vai se lascar").
+- Serve como bordão de Reels, fecho de anúncio e frase dos alunos.
+
 ---
 
 ## Perguntas pendentes
 
-### Finalização
-26. Se a AGENDA 3K virasse um movimento, qual seria o grito de guerra?
+Nenhuma. Todas as 26 perguntas foram respondidas.
+
+## Dúvidas e pontos em aberto
+
+- Conferência de 30 dias: é o mesmo encontro individual final ou uma checagem à parte? E quais eram "os 4 itens" citados na pergunta 3?
+- Ritual padrão (debrief, celebração da primeira venda): ainda a definir.
+- Identidade visual própria da AGENDA 3K (logo e fonte): ainda não existe.
+- Expressão "quem não aplica vai se lascar": usar como está ou criar versão para conteúdo público?
