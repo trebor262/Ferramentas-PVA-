@@ -99,6 +99,13 @@ A marca do Robert tem como logo um **cérebro na base da raiz de uma árvore**. 
 - Universo visual da AGENDA 3K: **árvore** e **bonecos de constelação**.
 - Lacuna: a AGENDA 3K ainda não tem identidade visual própria. Oportunidade de criar uma que una árvore, constelação e o número 3K.
 
+**12. Cores, fontes e elementos visuais**
+Paleta baseada no **inverno brilhante** (coloração pessoal): **roxo, dourado, lilás, azul e preto**, com um toque masculino. _Fontes e elementos reconhecíveis à distância (texto grande na tela, mesa com bonequinhos) ainda não foram detalhados._
+
+**Pontos-chave (para usar depois):**
+- Paleta: preto, dourado, roxo, lilás e azul (inverno brilhante).
+- Sensação: sofisticada, de alto valor, com identidade masculina. Combina com um posicionamento premium (protocolos de R$ 3 mil a R$ 5 mil).
+
 ### 4. Rituals (rituais)
 _(nenhuma ainda)_
 
@@ -119,7 +126,7 @@ _(nenhuma ainda)_
 ## Perguntas pendentes
 
 ### 3. Icon
-12. Quais cores, fontes ou elementos visuais você já usa? Algo que as pessoas reconhecem à distância?
+12. (falta só isso) Qual fonte ou estilo de letra você usa? Existe algo que faz as pessoas reconhecerem seu conteúdo de longe (texto grande na tela, mesa com bonequinhos, outro)?
 
 ### 4. Rituals
 13. Existe algo que todo aluno faz ao entrar ou toda semana? (aula ao vivo, check-in, meta, comemoração)
