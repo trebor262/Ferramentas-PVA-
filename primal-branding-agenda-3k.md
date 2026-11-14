@@ -77,6 +77,18 @@ Os principais: **ter medo de falar o valor** e **ter outro emprego para compleme
 - "Terapeuta não deveria ter medo de falar o valor do próprio trabalho."
 - "Terapeuta não deveria precisar de outro emprego para viver do que ama."
 
+**10. Qual é a causa maior? Por que importa que o terapeuta tenha a agenda cheia?**
+O terapeuta que vende protocolos terapêuticos de R$ 3 mil a R$ 5 mil ou mais consegue entregar muito mais qualidade nos atendimentos. Com menos atendimentos ele ajuda mais pessoas, e por isso atende melhor. Além disso, ganha dinheiro para fazer as formações que quiser, melhorar os atendimentos e trazer conforto para o paciente e para ele mesmo. Ganha também mais tempo para a família e para fazer o que quiser. E, se trabalha online, ganha liberdade geográfica.
+
+**Pontos-chave (para usar depois):**
+- **Qualidade:** menos atendimentos, mais profundidade e mais resultado para cada paciente (protocolo em vez de sessão solta).
+- **Investimento em si:** o dinheiro financia as formações que ele quiser, depois de aprender a vender.
+- **Conforto:** para o paciente e para o terapeuta.
+- **Tempo:** mais tempo para a família e para fazer o que quiser.
+- **Liberdade geográfica:** atendimento online, vivendo de qualquer lugar.
+
+**Causa maior (rascunho):** terapeutas que vivem bem do que fazem atendem melhor, ajudam mais gente e têm liberdade de tempo e de lugar.
+
 ### 3. Icon (ícone)
 _(nenhuma ainda)_
 
@@ -98,9 +110,6 @@ _(nenhuma ainda)_
 ---
 
 ## Perguntas pendentes
-
-### 2. Creed
-10. Qual é a causa maior por trás disso? Por que importa que terapeutas tenham agenda cheia?
 
 ### 3. Icon
 11. Existe algum símbolo, objeto ou imagem ligado à marca? (agenda, calendário, número 3K, constelações, bonequinhos na mesa?)
