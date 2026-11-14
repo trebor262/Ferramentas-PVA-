@@ -195,6 +195,21 @@ O Robert é contra os mentores que ganham dinheiro ensinando o terapeuta a **apr
 - Missão pessoal do Robert: fazer o terapeuta **entender** que venda é o primeiro passo. Esse é o critério de sucesso dele.
 - Frase-rascunho: **"O que fecha paciente não é mais um método, é saber conduzir a Sessão de Diagnóstico."**
 
+**21. Quais objeções você mais ouve de quem hesita em entrar?**
+- "Não tenho dinheiro."
+- "Ainda estou pensando."
+- Trabalha em outra função e quer migrar, mas não tem certeza se vai conseguir levar a sério.
+- "Não entendo" (não entende como funciona).
+- "Não tenho seguidores."
+- "Não gosto de aparecer."
+- "Não sei muito sobre tecnologia."
+
+**Pontos-chave (para usar depois):**
+- Objeções de **dinheiro e decisão:** "não tenho dinheiro", "ainda estou pensando", "não tenho certeza se vou levar a sério" (quem ainda tem outro emprego).
+- Objeções de **capacidade:** "não tenho seguidores", "não gosto de aparecer", "não sei de tecnologia", "não entendo".
+- Uso prático: cada objeção pode virar um **Reel de quebra de objeção**, um trecho de **anúncio** ou uma **resposta pronta** para o WhatsApp.
+- Pontos que o método já responde: **sem seguidores** (vídeos virais e lives), **sem verba** (caminho sem investimento, com lives no TikTok), **sem tecnologia** (a IA faz pela fala).
+
 ### 7. Leader (líder)
 _(nenhuma ainda)_
 
@@ -204,9 +219,6 @@ _(nenhuma ainda)_
 ---
 
 ## Perguntas pendentes
-
-### 6. Nonbelievers
-21. Quais objeções você mais ouve de quem hesita em entrar?
 
 ### 7. Leader
 22. Quem é você nessa história: guia, irmão mais velho, mestre, "terapeuta que já passou por isso"? Qual personalidade quer passar?
