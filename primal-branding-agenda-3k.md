@@ -236,15 +236,22 @@ Um líder de **duas pontas**:
 - Valor inegociável 4: **prosperidade para a família.** O propósito emocional por trás do dinheiro.
 - Reforça o credo e o inimigo de mercado ("mais um método não resolve").
 
+**24. O que faz um aluno confiar em você e não em outro mentor?**
+O principal é a **visão de empresário, e não só de terapeuta**. O Robert enxerga pelos dois caminhos: a visão de **empresário** que sabe fazer dinheiro e a de **terapeuta** que quer ajudar o paciente. Juntando as duas, o terapeuta consegue prosperar: não só pensar em ajudar a pessoa, mas entender que aquilo é **um negócio que está na mão dele**. Se tem um negócio, tem que ter **lucro**. E, com lucro, vêm **prosperidade, alegria, paz e liberdade**, para ele e para a família.
+
+**Pontos-chave (para usar depois):**
+- Diferencial de confiança: **as duas visões juntas**, empresário + terapeuta. Poucos mentores têm as duas.
+- Fórmula do Robert: **negócio → lucro → prosperidade, alegria, paz e liberdade** (para o terapeuta e a família).
+- Mensagem central: ajudar o paciente **e** ter lucro não são coisas opostas, são complementares.
+- Resposta direta ao mito "bom profissional trabalha por amor": **amor + negócio = prosperidade.**
+- Frase-rascunho: **"Ajudar o paciente e ter lucro não são opostos. Quem tem um negócio tem que ter lucro."**
+
 ### Finalização
 _(nenhuma ainda)_
 
 ---
 
 ## Perguntas pendentes
-
-### 7. Leader
-24. O que faz um aluno confiar em você e não em outro mentor?
 
 ### Finalização
 25. Quais são os concorrentes ou referências no mercado de mentoria para terapeutas? O que você faz diferente?
