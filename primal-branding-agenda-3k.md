@@ -172,7 +172,18 @@ O Robert brinca muito com os mentorados que **"quem não aplica a metodologia va
 - Em roteiros, legendas e anúncios, usar sempre "protocolo" e nunca "sessão avulsa" (exceto para criticá-la).
 
 ### 6. Nonbelievers (não crentes)
-_(nenhuma ainda)_
+
+**19. Quem NÃO é para a AGENDA 3K?**
+- Quem **pensa que sabe vender, mas não tem processo**: não segue uma sequência lógica dentro da Sessão de Diagnóstico e acha que é só ir lá e conversar com o paciente.
+- Quem acredita em **fórmula mágica**.
+- Quem tem **medo de vendas** e acha que **vender é sujo**.
+- Quem acha que **não pode cobrar caro** e que **um bom profissional tem que trabalhar por amor**.
+
+**Pontos-chave (para usar depois):**
+- Inimigo 1: **"Eu sei vender"** sem processo. Venda improvisada, sem sequência lógica. (A mentoria ensina **processo**, e isso é o oposto de conversar sem estrutura.)
+- Inimigo 2: **fórmula mágica.**
+- Inimigo 3: **crenças sobre dinheiro**: "vender é sujo", "cobrar caro é errado", "bom profissional trabalha por amor".
+- Conecta com o credo: quem trata a venda como algo sujo não vai conseguir viver do que ama.
 
 ### 7. Leader (líder)
 _(nenhuma ainda)_
@@ -185,7 +196,6 @@ _(nenhuma ainda)_
 ## Perguntas pendentes
 
 ### 6. Nonbelievers
-19. Quem NÃO é para a AGENDA 3K?
 20. Contra qual ideia ou prática do mercado de terapeutas você se posiciona?
 21. Quais objeções você mais ouve de quem hesita em entrar?
 
