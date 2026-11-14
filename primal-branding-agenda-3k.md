@@ -117,6 +117,24 @@ O grande diferencial que o Robert está implementando é a **inteligência artif
 - Teto de resultado citado: R$ 30 mil a R$ 50 mil por mês.
 - _Atenção: isso é mais um **diferencial/método** do que um **ritual** (hábito repetido). Ritual seria, por exemplo, "toda semana o aluno faz X". Vale definir um ritual a partir disso (ver perguntas 14 e 15)._
 
+**14. Como é a rotina de quem aplica o método? Qual é o primeiro passo?**
+O método tem **3 etapas**:
+
+1. **Perfil de especialista e conteúdo.** Deixar de ser um terapeuta genérico e virar especialista em um nicho específico. Desenvolver o perfil e criar vídeos virais para aumentar a rede de seguidores.
+2. **Atração de clientes.** Escolher entre dois caminhos:
+   - **Sem investimento:** lives no TikTok para atrair clientes.
+   - **Com investimento** (a partir de R$ 30 por dia): anúncios online que levam várias pessoas para o WhatsApp, para começar a encher a agenda.
+3. **Fechamento (a etapa principal, a primordial de tudo).** Aprender a fechar o protocolo de R$ 3 mil a R$ 5 mil **dentro da sessão de diagnóstico**, a famosa **SD**.
+
+Por fora, o aluno usa o **Claude ou o GPT** para agilizar o processo.
+
+**Pontos-chave (para usar depois):**
+- Nome interno para a sessão de venda: **Sessão de Diagnóstico (SD)**. Candidata forte a palavra sagrada.
+- Dois caminhos de atração: **sem investimento** (lives no TikTok) e **com investimento** (a partir de R$ 30 por dia em anúncios para o WhatsApp). Isso amplia o público: serve para quem não tem verba.
+- Etapa mais importante: **fechar protocolo na SD**. É o coração da promessa dos R$ 3 mil.
+- IA (Claude ou GPT) como ferramenta de apoio em todas as etapas.
+- _Observação: isso é a **jornada/método** da mentoria. Um ritual de verdade seria algo repetido (semanal ou a cada conquista), que ainda não apareceu._
+
 ### 5. Sacred Words (palavras sagradas)
 _(nenhuma ainda)_
 
@@ -134,7 +152,6 @@ _(nenhuma ainda)_
 ## Perguntas pendentes
 
 ### 4. Rituals
-14. Como é a rotina de quem aplica o método? Qual é o primeiro passo?
 15. Como vocês comemoram uma agenda cheia ou a primeira venda?
 
 ### 5. Sacred Words
