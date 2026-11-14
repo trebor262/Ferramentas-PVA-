@@ -62,6 +62,14 @@ O terapeuta acredita que precisa fazer várias formações para começar a ganha
 - O dinheiro é o que financia a evolução do terapeuta, e não o contrário.
 - Sintoma visível: sessão avulsa barata (R$ 60 a R$ 100) e pacientes repetidos.
 
+**8. Qual crença limitante você quer destruir?**
+A mesma da pergunta 7, e é uma das maiores: ficar fazendo formação atrás de formação, de forma infinita, sem aprender a vender. Em vez de se preocupar em aprender a vender, o terapeuta se preocupa em aprender novas formações e métodos de atendimento para o paciente.
+
+**Pontos-chave (para usar depois):**
+- Crença a destruir: **"Preciso de mais uma formação para começar a ganhar."**
+- O foco do terapeuta está no lugar errado: em **criar e aprender métodos**, e não em **vender**.
+- Essa é a principal crença limitante, a que mais pesa.
+
 ### 3. Icon (ícone)
 _(nenhuma ainda)_
 
@@ -85,7 +93,6 @@ _(nenhuma ainda)_
 ## Perguntas pendentes
 
 ### 2. Creed
-8. Qual crença limitante dos terapeutas você quer destruir?
 9. Complete: "Terapeuta não deveria ter que _______ para poder viver do que ama."
 10. Qual é a causa maior por trás disso? Por que importa que terapeutas tenham agenda cheia?
 
