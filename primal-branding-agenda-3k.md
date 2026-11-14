@@ -12,6 +12,16 @@ Mentoria de implementação para terapeutas, psicólogos, psicanalistas e profis
 **2. Aluno ideal e situação atual**
 Terapeutas, psicólogos, psicanalistas e quem trabalha com desenvolvimento humano; tanto quem já tem conhecimento quanto quem está começando e quer acelerar. Chegam sem método, cobram sessão avulsa barata e não sabem fechar protocolos de R$ 3 mil a R$ 5 mil por paciente.
 
+**3. Formato da mentoria**
+Duração de 6 meses de acompanhamento. Inclui:
+- 2 encontros individuais ao vivo com o Robert: um de onboarding (inicial) e um de conferência, para validar o processo.
+- Encontros ao vivo em grupo a cada 15 dias.
+- Comunidade em grupo de WhatsApp com os outros terapeutas da mentoria, para trocar ideias.
+- Treinamento gravado na plataforma Green.
+- Conferência após 30 dias de implementação, para ver se está dando resultado.
+
+_A confirmar: a conferência de 30 dias é o mesmo encontro individual final, ou é uma checagem à parte? E "os 4 itens" são: encontros individuais, lives quinzenais, comunidade e treinamento gravado?_
+
 ### 1. Creation Story (história de origem)
 _(nenhuma ainda)_
 
@@ -39,9 +49,6 @@ _(nenhuma ainda)_
 ---
 
 ## Perguntas pendentes
-
-### 0. Contexto básico
-3. Qual é o formato da mentoria (duração, encontros, comunidade, material)?
 
 ### 1. Creation Story
 4. Como nasceu a AGENDA 3K? Houve um momento, uma dor ou um fracasso seu que originou isso?
