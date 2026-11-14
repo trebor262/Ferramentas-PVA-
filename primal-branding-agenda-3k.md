@@ -135,6 +135,15 @@ Por fora, o aluno usa o **Claude ou o GPT** para agilizar o processo.
 - IA (Claude ou GPT) como ferramenta de apoio em todas as etapas.
 - _Observação: isso é a **jornada/método** da mentoria. Um ritual de verdade seria algo repetido (semanal ou a cada conquista), que ainda não apareceu._
 
+**15. Como vocês comemoram uma agenda cheia ou a primeira venda?**
+Hoje **não existe um ritual padrão**, e o Robert quer ajustar isso. Ele pensou em fazer algum tipo de **debrief**. A grande comemoração seria a **primeira venda de um protocolo**.
+
+**Pontos-chave (para usar depois):**
+- Lacuna reconhecida: ainda não há ritual padrão. Oportunidade de criar um.
+- Ideia já em mente: **debrief** (momento de revisar o que aconteceu e aprender).
+- Marco principal a celebrar: **a primeira venda de um protocolo**.
+- _A definir: formato do debrief e da celebração da primeira venda (ver opções sugeridas na conversa)._
+
 ### 5. Sacred Words (palavras sagradas)
 _(nenhuma ainda)_
 
@@ -150,9 +159,6 @@ _(nenhuma ainda)_
 ---
 
 ## Perguntas pendentes
-
-### 4. Rituals
-15. Como vocês comemoram uma agenda cheia ou a primeira venda?
 
 ### 5. Sacred Words
 16. Quais termos próprios você já usa e que seus alunos repetem? (nome do método, das fases, de uma técnica)
