@@ -211,7 +211,17 @@ O Robert é contra os mentores que ganham dinheiro ensinando o terapeuta a **apr
 - Pontos que o método já responde: **sem seguidores** (vídeos virais e lives), **sem verba** (caminho sem investimento, com lives no TikTok), **sem tecnologia** (a IA faz pela fala).
 
 ### 7. Leader (líder)
-_(nenhuma ainda)_
+
+**22. Quem é você nessa história? Que papel e personalidade quer passar?**
+Um líder de **duas pontas**:
+1. **O empresário:** quer que o terapeuta entenda o que faz como um **negócio**.
+2. **O guia que começou do zero:** mostra o caminho, está **junto** e **ao lado** do aluno, disposto a ajudar, guiar e dar a capacidade necessária para fazer o que precisa ser feito.
+
+**Pontos-chave (para usar depois):**
+- Arquétipo: **Empresário + Guia**. Visão de negócios com acolhimento e proximidade.
+- Autoridade vem de duas fontes: **resultado como empresário** (energia solar) e **resultado começando do zero** como terapeuta.
+- Postura: "estou do seu lado", "vou te guiar" e, ao mesmo tempo, cobrança de execução ("quem não aplica vai se lascar").
+- Promessa implícita do líder: **"eu já fiz, comecei do zero, e vou com você até o resultado."**
 
 ### Finalização
 _(nenhuma ainda)_
@@ -221,7 +231,6 @@ _(nenhuma ainda)_
 ## Perguntas pendentes
 
 ### 7. Leader
-22. Quem é você nessa história: guia, irmão mais velho, mestre, "terapeuta que já passou por isso"? Qual personalidade quer passar?
 23. Que valores e posturas você nunca negocia?
 24. O que faz um aluno confiar em você e não em outro mentor?
 
