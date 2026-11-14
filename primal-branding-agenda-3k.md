@@ -162,6 +162,15 @@ O Robert brinca muito com os mentorados que **"quem não aplica a metodologia va
 - Ideia por trás: **o método só funciona para quem aplica**. Reforça a responsabilidade do aluno e filtra quem não executa (ligado ao elemento "não crentes").
 - _A decidir: usar a expressão como está (mais informal) ou criar uma versão para conteúdo público._
 
+**18. Quais palavras associar à sua marca e quais proibir?**
+- **Associar:** protocolo, raiz, método.
+- **Proibir:** sessão avulsa.
+
+**Pontos-chave (para usar depois):**
+- Vocabulário da marca: **protocolo, raiz, método** (somados a **Sessão de Diagnóstico** e **Protocolo Raiz Premium**).
+- Palavra proibida: **sessão avulsa**. Combina com o credo: o terapeuta vende processo (protocolo), não sessão solta.
+- Em roteiros, legendas e anúncios, usar sempre "protocolo" e nunca "sessão avulsa" (exceto para criticá-la).
+
 ### 6. Nonbelievers (não crentes)
 _(nenhuma ainda)_
 
@@ -174,9 +183,6 @@ _(nenhuma ainda)_
 ---
 
 ## Perguntas pendentes
-
-### 5. Sacred Words
-18. Quais palavras você quer que o mercado associe a você? Quais quer proibir?
 
 ### 6. Nonbelievers
 19. Quem NÃO é para a AGENDA 3K?
