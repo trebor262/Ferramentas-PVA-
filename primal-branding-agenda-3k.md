@@ -42,6 +42,15 @@ Antes de aplicar o método, o Robert não tinha agenda: começou do zero, sem ne
 - Números reais e específicos: 8 sessões por R$ 2.500; 5 sessões por R$ 1.500.
 - Depois disso, agenda "sempre lotada".
 
+**6. História de um aluno com o resultado desejado**
+A primeira mentorada que fechou com o Robert dizia que não conseguia fazer nem R$ 1.000 por mês. Ela começou a mentoria e, em menos de 3 semanas, fechou um protocolo de R$ 5.000 e outro de R$ 1.200, totalizando R$ 6.200.
+
+**Pontos-chave (para usar depois):**
+- Antes: não chegava a R$ 1.000 por mês.
+- Depois: R$ 6.200 em menos de 3 semanas (R$ 5.000 + R$ 1.200).
+- Foi a primeira mentorada, a prova inicial de que o método funciona para outra pessoa além dele.
+- _Opcional, se quiser detalhar depois: perfil dela (profissão, tempo de atuação) e o que ela fez de diferente nessas 3 semanas._
+
 ### 2. Creed (credo)
 _(nenhuma ainda)_
 
@@ -66,9 +75,6 @@ _(nenhuma ainda)_
 ---
 
 ## Perguntas pendentes
-
-### 1. Creation Story
-6. Qual a história de um aluno que teve o resultado que você quer que todos tenham?
 
 ### 2. Creed
 7. No que você acredita sobre terapeutas, dinheiro e agenda cheia que a maioria do mercado ignora ou nega?
