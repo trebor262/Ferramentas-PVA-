@@ -25,6 +25,10 @@ Requisitos: Docker (com `docker compose`), git e um celular com o WhatsApp do n�
 
 ### 1. Instalar e subir
 
+**Windows (mais fácil):** abra o Docker Desktop, entre na pasta `openwa` e dê dois cliques em `instalar-windows.bat`. Não precisa de Git nem de Bash. Depois pule para o passo 2.
+
+**Mac/Linux:**
+
 ```bash
 cd openwa
 ./setup.sh
