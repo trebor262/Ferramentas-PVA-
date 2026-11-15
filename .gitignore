@@ -6,3 +6,8 @@ coverage/
 *.log
 .env*
 !.env.example
+
+# OpenWA (clone local do projeto externo e chaves)
+openwa/OpenWA/
+openwa/.mcp.json
+.mcp.json
