@@ -64,6 +64,42 @@ Copie `mcp.json.example` para `.mcp.json` na raiz do projeto, troque `COLE_AQUI_
 
 Por padrão o `.env` deixa `MCP_READONLY=false` (permite envio). Se quiser só leitura, troque para `true` em `OpenWA/.env` e rode `docker compose -f docker-compose.dev.yml up -d` na pasta `OpenWA`.
 
+## Lembretes automáticos (agenda)
+
+Em vez de rodar um comando por mensagem, use o agendador em `lembretes/` (Node 18+, sem instalar nada):
+
+```bash
+cd openwa/lembretes
+cp lembretes.exemplo.json lembretes.json   # edite com os seus lembretes
+export OPENWA_API_KEY="chave-operador" OPENWA_SESSION_ID="id-da-sessao"
+
+node lembretes.mjs --simular --uma-vez     # mostra o que seria enviado, sem enviar
+node lembretes.mjs                         # fica rodando e envia na hora certa
+```
+
+Formato de cada lembrete em `lembretes.json`:
+
+| Campo | Exemplo | Observação |
+|---|---|---|
+| `id` | `"reuniao-semanal"` | único; é por ele que o envio não se repete |
+| `numero` | `"5571999999999"` | DDI+DDD+número, só dígitos |
+| `texto` | `"Reunião às 10h"` | |
+| `hora` + `dias` | `"09:00"`, `["seg","qua"]` | recorrente; sem `dias` vale todo dia (`dom seg ter qua qui sex sab`) |
+| `quando` | `"2026-12-05 09:00"` | envio único (use `quando` **ou** `hora`) |
+| `ativo` | `false` | pausa o lembrete |
+
+Como se comporta:
+
+- Usa o horário do computador onde roda. Confira o fuso.
+- Relê o `lembretes.json` a cada 30 segundos: dá para editar sem reiniciar.
+- Grava o que já enviou em `estado.json`, então reiniciar não duplica mensagens.
+- Se o envio falhar (ex.: sessão desconectada), tenta de novo no ciclo seguinte.
+- Se o computador ficou desligado, não manda lembrete velho: passando de 6 horas do horário (`JANELA_ATRASO_MIN`), ele descarta.
+- Entre dois envios no mesmo ciclo espera de 20 a 60 s (`ESPERA_MIN_S` / `ESPERA_MAX_S`).
+- Precisa ficar rodando. Para deixar em segundo plano: `nohup node lembretes.mjs > lembretes.log 2>&1 &`, ou use o agendador do seu sistema (launchd no Mac, systemd/cron no Linux) com `--uma-vez`.
+
+Testes: `node --test lembretes.test.mjs`.
+
 ## Dia a dia
 
 ```bash

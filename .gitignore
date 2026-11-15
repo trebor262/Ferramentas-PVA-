@@ -11,3 +11,7 @@ coverage/
 openwa/OpenWA/
 openwa/.mcp.json
 .mcp.json
+
+# Lembretes pessoais (números de telefone) e estado de envio
+openwa/lembretes/lembretes.json
+openwa/lembretes/estado.json

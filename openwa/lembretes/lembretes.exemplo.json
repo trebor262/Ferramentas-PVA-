@@ -1,0 +1,5 @@
+[
+  { "id": "reuniao-semanal", "numero": "5571999999999", "texto": "Lembrete: reunião de equipe às 10h.", "hora": "09:00", "dias": ["seg"] },
+  { "id": "bom-dia-agenda",  "numero": "5571999999999", "texto": "Bom dia! Confira a agenda de hoje.", "hora": "08:30", "dias": ["seg", "ter", "qua", "qui", "sex"] },
+  { "id": "pagar-fornecedor", "numero": "5571999999999", "texto": "Lembrete: pagar o fornecedor hoje.", "quando": "2026-12-05 09:00" }
+]
