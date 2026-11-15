@@ -27,7 +27,7 @@ Requisitos: Docker (com `docker compose`), git e um celular com o WhatsApp do n�
 
 **Windows com Docker:** abra o Docker Desktop, entre na pasta `openwa` e dê dois cliques em `instalar-windows.bat`. Não precisa de Git nem de Bash. O painel fica em `http://localhost:2785`.
 
-**Windows sem Docker (se o Docker Desktop der problema):** instale o [Node.js](https://nodejs.org) LTS (versão 22.19 ou mais nova), entre na pasta `openwa` e dê dois cliques em `instalar-windows-node.bat`. A primeira vez demora vários minutos. Deixe a janela aberta enquanto usar: fechá-la para o OpenWA. Neste modo o **painel fica em `http://localhost:2886`** (a API continua em `2785`). A chave de admin fica em `OpenWA\data\.api-key`.
+**Windows sem Docker (se o Docker Desktop der problema):** instale o [Node.js](https://nodejs.org) LTS (versão 22.19 ou mais nova), entre na pasta `openwa` e dê dois cliques em `instalar-windows-node.bat`. A primeira vez demora vários minutos. Deixe a janela aberta enquanto usar: fechar a janela encerra o OpenWA. Neste modo o **painel fica em `http://localhost:2886`** (a API continua em `2785`). A chave de admin fica em `OpenWA\data\.api-key`.
 
 Depois de qualquer um dos dois, siga para o passo 2 (troque a porta do painel se estiver no modo sem Docker).
 
