@@ -56,14 +56,26 @@ SIMULATE_TYPING=true
 
 # 4. Instalar dependencias (so na primeira vez)
 Set-Location $Repo
-if (-not (Test-Path (Join-Path $Repo 'node_modules'))) {
+$completo = (Test-Path (Join-Path $Repo 'node_modules\.bin\concurrently.cmd')) -and `
+            (Test-Path (Join-Path $Repo 'dashboard\node_modules\.bin\vite.cmd'))
+if (-not $completo) {
   Write-Host ""
+  if (Test-Path (Join-Path $Repo 'node_modules')) {
+    Write-Host "Instalacao anterior incompleta. Limpando e refazendo..."
+    Remove-Item (Join-Path $Repo 'node_modules') -Recurse -Force -ErrorAction SilentlyContinue
+    Remove-Item (Join-Path $Repo 'dashboard\node_modules') -Recurse -Force -ErrorAction SilentlyContinue
+  }
   Write-Host "Instalando dependencias. Na primeira vez demora VARIOS MINUTOS. Nao feche esta janela."
   $ErrorActionPreference = 'Continue'
   npm ci
   $codigo = $LASTEXITCODE
   $ErrorActionPreference = 'Stop'
-  if ($codigo -ne 0) { Falha "A instalacao das dependencias falhou. Copie as ultimas linhas acima e envie para o suporte." }
+  if ($codigo -ne 0) {
+    Falha "A instalacao das dependencias falhou. Copie as ultimas linhas acima e envie para o suporte. Dica: se o erro falar de 'gyp', 'Visual Studio' ou 'prebuild', instale o Node.js 22 LTS (nodejs.org/en/download, versao 22.x) no lugar da versao atual."
+  }
+  if (-not (Test-Path (Join-Path $Repo 'node_modules\.bin\concurrently.cmd'))) {
+    Falha "A instalacao terminou mas faltam arquivos (concurrently). Feche, apague a pasta OpenWA\node_modules e rode de novo."
+  }
 }
 
 # 5. Iniciar (esta janela precisa ficar aberta enquanto o OpenWA estiver em uso)
