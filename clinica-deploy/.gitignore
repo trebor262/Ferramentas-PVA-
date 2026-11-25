@@ -1,0 +1,6 @@
+.env
+*.env
+!.env.example
+backups/
+cal.diy/
+__pycache__/

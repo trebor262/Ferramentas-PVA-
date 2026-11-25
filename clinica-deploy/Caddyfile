@@ -1,0 +1,15 @@
+{
+	email {$ACME_EMAIL}
+}
+
+# Agendamento (cal.diy)
+{$CAL_HOST} {
+	encode zstd gzip
+	reverse_proxy calcom:3000
+}
+
+# Atendimento (Chatwoot)
+{$CHATWOOT_HOST} {
+	encode zstd gzip
+	reverse_proxy chatwoot-rails:3000
+}

@@ -1,0 +1,145 @@
+# Funil da clínica: agendamento (cal.diy) + atendimento (Chatwoot) + ponte entre os dois.
+# HTTPS automático (Let's Encrypt) pelo Caddy. Só as portas 80 e 443 ficam abertas.
+name: clinica
+
+x-chatwoot-env: &chatwoot-env
+  RAILS_ENV: production
+  NODE_ENV: production
+  INSTALLATION_ENV: docker
+  SECRET_KEY_BASE: ${CHATWOOT_SECRET_KEY_BASE}
+  FRONTEND_URL: https://${CHATWOOT_HOST}
+  FORCE_SSL: "true"
+  ENABLE_ACCOUNT_SIGNUP: "false"
+  DEFAULT_LOCALE: pt_BR
+  POSTGRES_HOST: chatwoot-db
+  POSTGRES_DATABASE: chatwoot_production
+  POSTGRES_USERNAME: postgres
+  POSTGRES_PASSWORD: ${CHATWOOT_DB_PASSWORD}
+  REDIS_URL: redis://:${CHATWOOT_REDIS_PASSWORD}@chatwoot-redis:6379
+  REDIS_PASSWORD: ${CHATWOOT_REDIS_PASSWORD}
+  MAILER_SENDER_EMAIL: ${MAIL_FROM}
+  SMTP_DOMAIN: ${SMTP_DOMAIN}
+  SMTP_ADDRESS: ${SMTP_HOST}
+  SMTP_PORT: ${SMTP_PORT}
+  SMTP_USERNAME: ${SMTP_USER}
+  SMTP_PASSWORD: ${SMTP_PASSWORD}
+  SMTP_AUTHENTICATION: login
+  SMTP_ENABLE_STARTTLS_AUTO: "true"
+  LOG_LEVEL: info
+  TZ: ${TIMEZONE}
+
+services:
+  caddy:
+    image: caddy:2
+    restart: unless-stopped
+    ports: ["80:80", "443:443"]
+    environment:
+      CAL_HOST: ${CAL_HOST}
+      CHATWOOT_HOST: ${CHATWOOT_HOST}
+      ACME_EMAIL: ${ACME_EMAIL}
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    networks: [web]
+
+  # ---------- Agendamento (cal.diy) ----------
+  cal-db:
+    image: postgres:16
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: cal
+      POSTGRES_PASSWORD: ${CAL_DB_PASSWORD}
+      POSTGRES_DB: calendso
+    volumes: [cal_db:/var/lib/postgresql/data]
+    networks: [internal]
+
+  calcom:
+    image: cal-diy:prod            # gerada por scripts/build-cal.sh (não existe imagem pronta publicada)
+    restart: unless-stopped
+    depends_on: [cal-db]
+    environment:
+      DATABASE_URL: postgresql://cal:${CAL_DB_PASSWORD}@cal-db:5432/calendso
+      DATABASE_DIRECT_URL: postgresql://cal:${CAL_DB_PASSWORD}@cal-db:5432/calendso
+      DATABASE_HOST: cal-db:5432
+      NEXTAUTH_URL: https://${CAL_HOST}
+      NEXT_PUBLIC_WEBAPP_URL: https://${CAL_HOST}
+      NEXT_PUBLIC_WEBSITE_URL: https://${CAL_HOST}
+      NEXTAUTH_SECRET: ${NEXTAUTH_SECRET}
+      CALENDSO_ENCRYPTION_KEY: ${CALENDSO_ENCRYPTION_KEY}
+      CALCOM_TELEMETRY_DISABLED: "1"
+      EMAIL_FROM: ${MAIL_FROM_ADDRESS}
+      EMAIL_FROM_NAME: ${MAIL_FROM_NAME}
+      EMAIL_SERVER_HOST: ${SMTP_HOST}
+      EMAIL_SERVER_PORT: ${SMTP_PORT}
+      EMAIL_SERVER_USER: ${SMTP_USER}
+      EMAIL_SERVER_PASSWORD: ${SMTP_PASSWORD}
+      TZ: ${TIMEZONE}
+    networks: [internal, web]
+
+  # ---------- Atendimento (Chatwoot) ----------
+  chatwoot-db:
+    image: pgvector/pgvector:pg16
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: chatwoot_production
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: ${CHATWOOT_DB_PASSWORD}
+    volumes: [chatwoot_db:/var/lib/postgresql/data]
+    networks: [internal]
+
+  chatwoot-redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    command: ["sh", "-c", "redis-server --requirepass \"$$REDIS_PASSWORD\""]
+    environment:
+      REDIS_PASSWORD: ${CHATWOOT_REDIS_PASSWORD}
+    volumes: [chatwoot_redis:/data]
+    networks: [internal]
+
+  chatwoot-rails:
+    image: chatwoot/chatwoot:v4.20.1-ce
+    restart: unless-stopped
+    depends_on: [chatwoot-db, chatwoot-redis]
+    entrypoint: docker/entrypoints/rails.sh
+    command: ["bundle", "exec", "rails", "s", "-p", "3000", "-b", "0.0.0.0"]
+    environment: *chatwoot-env
+    volumes: [chatwoot_storage:/app/storage]
+    networks: [internal, web]
+
+  chatwoot-sidekiq:
+    image: chatwoot/chatwoot:v4.20.1-ce
+    restart: unless-stopped
+    depends_on: [chatwoot-db, chatwoot-redis]
+    command: ["bundle", "exec", "sidekiq", "-C", "config/sidekiq.yml"]
+    environment: *chatwoot-env
+    volumes: [chatwoot_storage:/app/storage]
+    networks: [internal]
+
+  # ---------- Ponte: avisos do cal.diy -> conversa no Chatwoot ----------
+  bridge:
+    image: python:3.13-slim
+    restart: unless-stopped
+    depends_on: [chatwoot-rails]
+    command: ["python", "/app/bridge.py"]
+    environment:
+      CHATWOOT_URL: http://chatwoot-rails:3000
+      CHATWOOT_ACCOUNT: "1"
+      CHATWOOT_TOKEN: ${CHATWOOT_API_TOKEN}
+      CHATWOOT_INBOX_NAME: Agendamentos (Cal.diy)
+      CAL_WEBHOOK_SECRET: ${CAL_WEBHOOK_SECRET}
+      PORT: "8099"
+    volumes: ["./bridge/bridge.py:/app/bridge.py:ro"]
+    networks: [internal]
+
+networks:
+  web: {}
+  internal: {}
+
+volumes:
+  caddy_data:
+  caddy_config:
+  cal_db:
+  chatwoot_db:
+  chatwoot_redis:
+  chatwoot_storage:
